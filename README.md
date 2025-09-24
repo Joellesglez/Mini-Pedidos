@@ -101,6 +101,6 @@ Mejorar toString() para un resumen más legible
 
 Añadir parsing desde texto para crear pedidos desde input del usuario
 
-Licencia
+
 
 #                                                                                   Este proyecto está bajo la licencia MIT.
